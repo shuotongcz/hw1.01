@@ -1,0 +1,71 @@
+h1{
+    background-color: rgb(211, 90, 131);
+    margin-left: auto;
+    text-align: center;
+    color: black;
+    padding: 30px 30px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+h2{
+    background-color:rgb(241, 236, 211);
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;
+    color: LightSlateGrey;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.section1{
+    width: 1200px;
+    border: 15px rgb(90, 80, 80);
+    padding: px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:rgb(19, 29, 29);
+    color:aliceblue;
+}
+p{
+    margin-left: 10px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+
+img{
+    width: 200px;
+    margin-top: 20px;
+    margin-left: 43%;
+    border-style: dotted;
+    border-color: pink;
+    border-radius: 20px;
+}
+
+.section2{
+    background-color: rgb(189, 186, 186);
+    border: rgb(35, 28, 28);
+}
+
+a{
+    background-color:rgb(241, 218, 179);
+    width: 20%;
+    border:20px black;
+    padding: 10px 20px 10px 20px;
+    margin: 20px;
+    color: rgb(117, 90, 187);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+ul{
+    background-color: LavenderBlush;
+    color: rgb(213, 5, 136);
+    padding: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+ol{
+    background-color: Lavender;
+    color: blue;
+    padding: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
